@@ -1,0 +1,1 @@
+# MoMoFramework - Modular Monolith Architecture
